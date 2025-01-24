@@ -1,44 +1,67 @@
-## Sales Report :
+# Sales & Finance Analytics Reports
 
+## Sales Report:
 
-- **Project objective:** 
+### **Project Objectives:**
+1. Develop a [_Customer Performance Report_](https://github.com/kajamohinuddin/excel-sales-analytics/blob/main/reports/Customer%20Performance%20Report.pdf).
+2. Perform a detailed comparison of [_Market Performance vs. Sales Targets_](https://github.com/kajamohinuddin/excel-sales-analytics/blob/main/reports/Market%20Performance%20vs%20Target%20Report.pdf).
 
-    **1.** Create a _[customer performance report](https://github.com/kajamohinuddin/excel-sales-analytics/blob/main/reports/Customer%20Performance%20Report.pdf)_ 
+### **Purpose of Sales Analytics:**
+- Empower businesses to monitor and evaluate sales activities and performance effectively.
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/kajamohinuddin/excel-sales-analytics/blob/main/reports/Market%20Performance%20vs%20Target%20Report.pdf)_
+### **Importance of Analyzing Sales Data:**
+- Identify sales patterns and trends.
+- Track and improve key performance indicators (KPIs).
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+### **Role of Reports:**
+- Determine effective customer discount strategies.
+- Facilitate consumer negotiations.
+- Identify business expansion opportunities in high-potential markets.
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+---
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+## Finance Report:
 
+### **Project Objectives:**
+1. Generate [_Profit and Loss (P&L) Statements by Fiscal Year_](https://github.com/kajamohinuddin/excel-sales-analytics/blob/main/reports/P%26L%20Statement%20by%20Fiscal%20Year.pdf).
+2. Generate [_Profit and Loss (P&L) Statements by Markets_](https://github.com/kajamohinuddin/excel-sales-analytics/blob/main/reports/P%26L%20Statement%20by%20Markets.pdf).
 
-## Finance Report :
+### **Purpose of Finance Analytics:**
+- Evaluate financial performance to support decision-making.
+- Facilitate effective communication with stakeholders.
 
-- **Project objective:** 
+### **Importance of Analyzing Finance Data:**
+- Benchmark performance against industry peers and historical periods.
+- Provide a foundation for budgeting and forecasting.
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/kajamohinuddin/excel-sales-analytics/blob/main/reports/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ 
+### **Role of Reports:**
+- Align financial planning with strategic business goals.
+- Instill confidence in the organization’s financial outlook.
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/kajamohinuddin/excel-sales-analytics/blob/main/reports/P%26L%20Statement%20by%20Markets.pdf)_
+---
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+## Skills Highlight:
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+### **Technical Skills:**
+- ✅ Proficiency in ETL (Extract, Transform, Load) processes.
+- ✅ Creating date tables using Power Query.
+- ✅ Deriving fiscal months and quarters for analysis.
+- ✅ Establishing robust data model relationships using Power Pivot.
+- ✅ Incorporating supplementary data into existing data models.
+- ✅ Leveraging DAX to create calculated columns for reporting.
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+### **Soft Skills:**
+- ✅ Strong understanding of Sales and Finance reports.
+- ✅ Designing user-centric reports with empathy and usability in mind.
+- ✅ Optimizing report generation with a focus on efficiency and accuracy.
+- ✅ Developing systematic approaches for report creation and planning.
 
+---
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+## Why These Reports Matter:
+The combination of sales and finance analytics enables businesses to:
+- Make data-driven decisions.
+- Adapt to market changes efficiently.
+- Strengthen their competitive advantage in global markets.
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+Explore the repository for detailed insights and tools to create impactful reports. 🚀
